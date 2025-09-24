@@ -1,4 +1,4 @@
-# Perform-Arthemetic-Operations-Using-User-Input
+# Arithmetic Operations Program
 # Arithmetic Operations Program 💻
 
 This Python program allows the user to perform basic arithmetic operations using two input numbers. The user will input two numbers, and then select an arithmetic operation (+, -, *, or /) to perform on those numbers.
